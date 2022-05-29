@@ -1,0 +1,10 @@
+class Student:
+  def __init__(self,n,r):
+    self.name=n
+    self.roll_no=r
+s1=Student("Likhitha",1801)
+print(s1.name)
+print(s1.roll_no)
+s2=Student("Sripriya",990)
+print(s2.name)
+print(s2.roll_no)
