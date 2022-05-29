@@ -1,0 +1,4 @@
+import math
+x=(int)(input("enter a number"))
+factorial=math.factorial(x)
+print(math.factorial(x))
